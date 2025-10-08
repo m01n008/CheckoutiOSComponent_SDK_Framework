@@ -1,0 +1,1 @@
+regex:sk_test_[A-Za-z0-9_]+==>REDACTED_CHECKOUT_TEST_KEY
